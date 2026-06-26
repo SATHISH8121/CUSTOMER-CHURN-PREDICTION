@@ -211,3 +211,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+# 🎯 Conclusion
+
+The Customer Churn Prediction System successfully demonstrates the use of Machine Learning to identify customers who are likely to leave a company. By analyzing historical customer data and training predictive models, the application provides accurate churn predictions that can help businesses improve customer retention. The project combines data preprocessing, exploratory data analysis, model evaluation, and a user-friendly Flask web interface to deliver an effective end-to-end solution. This system serves as a valuable tool for supporting data-driven business decisions and can be further enhanced with advanced algorithms and cloud deployment.
